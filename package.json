@@ -1,0 +1,26 @@
+{
+  "name": "teacherportal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "*",
+    "errorhandler": "^1.4.3",
+    "express": "^4.14.0",
+    "express-myconnection": "*",
+    "express-session": "^1.14.1",
+    "json": "^9.0.4",
+    "method-override": "^2.3.6",
+    "morgan": "^1.7.0",
+    "multer": "^1.2.0",
+    "mysql": "*",
+    "pug": "^2.0.0-beta6",
+    "serve-favicon": "^2.3.0"
+  }
+}
